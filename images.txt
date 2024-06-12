@@ -1,1 +1,1 @@
-docker.io/langflowai/langflow:base-0.0.63
+docker.io/langflowai/langflow:latest
