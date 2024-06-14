@@ -1,3 +1,4 @@
-docker.io/langflowai/langflow:latest
-flowiseai/flowise:1.8.2
-elestio/flowiseai:1.6.6
+ghcr.io/labring/fastgpt:v4.8.4
+ghcr.io/labring/fastgpt-sandbox:v4.8.4
+pgvector/pgvector:0.7.0-pg15
+mongo:5.0.18
