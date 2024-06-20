@@ -1,1 +1,1 @@
-harryliu888/bge-reranker-base:latest
+pentaho/pentaho-kettle:latest
