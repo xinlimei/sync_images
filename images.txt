@@ -1,1 +1,1 @@
-pentaho/pentaho-kettle:latest
+vinlic/glm-free-api:latest
