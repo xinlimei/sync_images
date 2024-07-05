@@ -1,1 +1,1 @@
-vinlic/glm-free-api:latest
+docker pull lobehub/lobe-chat:v1.2.9
