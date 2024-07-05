@@ -1,1 +1,1 @@
-docker pull lobehub/lobe-chat:v1.2.9
+lobehub/lobe-chat:v1.2.9
