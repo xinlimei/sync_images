@@ -1,1 +1,1 @@
-calciumion/new-api:v0.2.8.0
+vinlic/qwen-free-api:latest
