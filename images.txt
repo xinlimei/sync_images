@@ -1,1 +1,1 @@
-lobehub/lobe-chat:v1.15.11
+calciumion/new-api:v0.2.8.0
