@@ -1,1 +1,1 @@
-elestio/flowiseai:latest
+docker pull searxng/searxng:latest
