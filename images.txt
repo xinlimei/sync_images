@@ -1,1 +1,2 @@
-searxng/searxng:latest
+caddy:2-alpine
+valkey/valkey:7-alpine
