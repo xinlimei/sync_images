@@ -1,1 +1,1 @@
-docker pull searxng/searxng:latest
+searxng/searxng:latest
