@@ -1,1 +1,1 @@
-vinlic/qwen-free-api:latest
+elestio/flowiseai:latest
