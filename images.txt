@@ -1,1 +1,1 @@
-node:18.20-alpine
+mirotalk/p2p:latest
