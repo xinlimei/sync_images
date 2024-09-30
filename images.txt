@@ -1,1 +1,4 @@
-mirotalk/p2p:latest
+jitsi/web:latest
+jitsi/prosody:latest
+jitsi/jicofo:latest
+jitsi/jvb:latest
