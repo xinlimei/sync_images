@@ -1,4 +1,1 @@
-jitsi/web:stable
-jitsi/prosody:stable
-jitsi/jicofo:stable
-jitsi/jvb:stable
+calciumion/new-api:v0.3.0.0
