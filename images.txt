@@ -1,1 +1,1 @@
-node:20.12.2-alpine
+mongo:4.4
