@@ -1,1 +1,1 @@
-mongo:4.4
+milvusdb/milvus:v2.4.13-hotfix
