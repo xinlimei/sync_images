@@ -1,1 +1,1 @@
-ghcr.io/labring/fastgpt:v4.8.12
+ragapp/ragapp:latest
