@@ -1,1 +1,2 @@
-calciumion/new-api:v0.4.0.0
+infiniflow/infinity:v0.5.0
+valkey/valkey:8
