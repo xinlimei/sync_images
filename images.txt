@@ -1,1 +1,1 @@
-apache/openmeetings:8.0.0
+mirotalk/p2p:latest
