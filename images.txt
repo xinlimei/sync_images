@@ -1,1 +1,1 @@
-calciumion/new-api:v0.4.6.1
+apache/openmeetings:8.0.0
