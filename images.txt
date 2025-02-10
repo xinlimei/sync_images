@@ -1,1 +1,1 @@
-mirotalk/p2p:latest
+calciumion/new-api:v0.4.6.9
