@@ -1,1 +1,2 @@
-svcvit/dify-sandbox-py:0.1.2
+langgenius/dify-api:0.15.3
+milvusdb/milvus:v2.5.0-beta
