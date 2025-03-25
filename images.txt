@@ -1,1 +1,3 @@
-langgenius/dify-web:main
+langgenius/dify-api:0.15.5
+langgenius/dify-web:0.15.5
+
