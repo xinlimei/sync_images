@@ -1,1 +1,3 @@
-chromadb/chroma:1.0.8.dev8
+langgenius/dify-api:1.4.0
+langgenius/dify-web:1.4.0
+langgenius/dify-plugin-daemon:0.0.10-local
