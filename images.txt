@@ -1,3 +1,1 @@
-langgenius/dify-api:1.4.0
-langgenius/dify-web:1.4.0
-langgenius/dify-plugin-daemon:0.0.10-local
+calciumion/new-api:v0.7.2.2
