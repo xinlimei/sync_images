@@ -1,4 +1,1 @@
-calciumion/new-api:v0.8.3.0
-langgenius/dify-api:1.4.2
-langgenius/dify-web:1.4.2
-langgenius/dify-plugin-daemon:0.1.2-local
+svcvit/dify-sandbox-py:0.1.4
