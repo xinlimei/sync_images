@@ -1,3 +1,2 @@
-calciumion/new-api:v0.8.6.3
-langgenius/dify-api:1.5.0
-langgenius/dify-web:1.5.0
+langgenius/dify-api:1.5.1
+langgenius/dify-web:1.5.1
