@@ -1,3 +1,1 @@
-clickhouse/clickhouse-server:latest
-minio/minio:latest
-apache/rocketmq:latest
+golang:1.23.4
