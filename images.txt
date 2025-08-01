@@ -1,1 +1,1 @@
-calciumion/new-api:v0.8.8.0
+n8nio/n8n:1.104.2
