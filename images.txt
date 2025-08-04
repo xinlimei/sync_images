@@ -1,1 +1,2 @@
-n8nio/n8n:1.104.2
+dpage/pgadmin4:latest
+redis:7-alpine
