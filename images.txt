@@ -1,2 +1,2 @@
-dpage/pgadmin4:latest
-redis:7-alpine
+langgenius/dify-api:1.7.2
+langgenius/dify-web:1.7.2
