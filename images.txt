@@ -1,2 +1,2 @@
-langgenius/dify-api:1.8.0
-langgenius/dify-web:1.8.0
+langgenius/dify-api:1.8.1
+langgenius/dify-web:1.8.1
