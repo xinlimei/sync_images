@@ -1,1 +1,1 @@
-heartexlabs/label-studio:latest
+calciumion/new-api:v0.9.5
