@@ -1,1 +1,1 @@
-calciumion/new-api:v0.9.5
+calciumion/new-api:v0.9.6
