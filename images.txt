@@ -1,1 +1,1 @@
-node:22.16.0-alpine
+calciumion/new-api:v0.10.2
