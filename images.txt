@@ -1,3 +1,2 @@
-langgenius/dify-api:1.12.1
-langgenius/dify-web:1.12.1
-langgenius/dify-plugin-daemon:0.5.3-local
+postgres:15-alpine
+redis:7-alpine
