@@ -1,2 +1,2 @@
-postgres:15-alpine
-redis:7-alpine
+--platform linux/arm64 postgres:15-alpine
+--platform linux/arm64 redis:7-alpine
