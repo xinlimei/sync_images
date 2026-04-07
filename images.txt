@@ -1,2 +1,1 @@
---platform linux/arm64 postgres:15-alpine
---platform linux/arm64 redis:7-alpine
+calciumion/new-api:v0.12.2
