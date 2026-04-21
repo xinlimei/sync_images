@@ -1,2 +1,1 @@
-mysql:5.7.29
-redis:6.2.5
+multiarch/qemu-user-static
