@@ -1,1 +1,2 @@
-calciumion/new-api:v0.12.12
+mysql:5.7.29
+redis:4.0.14
