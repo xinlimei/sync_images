@@ -1,2 +1,1 @@
-langgenius/dify-plugin-daemon:0.6.3-local
-langgenius/dify-agent-backend:1.16.0
+rustdesk/rustdesk-server:latest
