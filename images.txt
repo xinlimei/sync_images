@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest
+calciumion/new-api:latest
