@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+ghcr.io/berriai/litellm:latest
