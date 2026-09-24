@@ -1,1 +1,1 @@
-ghcr.io/berriai/litellm:latest
+ghcr.io/tbphp/gpt-load:2
